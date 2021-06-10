@@ -1,0 +1,137 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Corben', cursive;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+  font-size: 90px;
+  color: #f73859;
+}
+
+h2 {
+  color: #f73859;
+  font-weight: normal;
+  margin-bottom: 35px;
+}
+
+h3 {
+  color: #f73859;
+}
+
+p {
+  font-size: 1rem;
+  line-height: 2;
+}
+
+span {
+  text-decoration: underline;
+}
+
+hr {
+  width: 10%;
+  border-style: dotted none none;
+  border-width: 15px;
+  border-color: #7ac7c4;
+  margin: 100px auto;
+}
+
+a {
+  color: #fff5fd;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ffbbcc;
+}
+
+span {
+  text-decoration: underline;
+}
+
+.profile {
+  width: 40%;
+  margin: auto;
+}
+
+.seb {
+  border-radius: 50%;
+  width: 50%;
+}
+
+.shoot {
+  border-radius: 50%;
+  width: 25%;
+  float: left;
+  padding: 30px;
+}
+
+.scream {
+  border-radius: 50%;
+  width: 25%;
+  float: right;
+  padding: 30px;
+}
+
+.top-container {
+  background-color: #c4edde;
+  position: relative;
+  padding: 300px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #384259;
+  padding: 50px 0 20px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px;
+  text-align: left;
+  line-height: 1.5
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 250px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+}
+
+.myself {
+  width: 40%;
+  margin: 40px auto 40px;
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Corben', cursive;
+  color: #ffffff;
+  font-size: 20px;
+  background: #7ac7c4;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #c4edde;
+  text-decoration: none;
+}
+
+.cr {
+  color: #ffe5e2;
+  font-size: 0.75rem;
+}
